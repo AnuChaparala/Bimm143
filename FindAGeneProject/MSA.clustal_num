@@ -1,0 +1,146 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Mus                     ------------------------------------------------------------	0
+Xenopus_tropicalis      ------------------------------------------------------VPKETS	6
+Xenopus_laevis          ------------------------PNW--VMADEDDYGEEIVLSFAMQEEAQVDMEKETS	34
+Danio                   ------------------------------------------------------------	0
+Elephant                ------------------------------------------------------------	0
+Rattus                  ------------------------------------------------------------	0
+Pigtailed               ------------------------------------------------------------	0
+Pongo                   ------------------------------------------------------------	0
+proprotein              MGTVSSRRSWWPLPLLLLLLLLLGPAGARAQEDEDGDYEELVLALRSEEDGLAEAPEHGT	60
+Canis                   ------------------------------------------------------------	0
+                                                                                    
+
+Mus                     ------------------------------SERPVTAAHASCHRVG-PHRLLPTWPALWL	29
+Xenopus_tropicalis      IGAFYWSNKEAWRTAGQYVVVLKENIHRSQTERVIRRLQARAAKHGYLTKIVNVFHELFR	66
+Xenopus_laevis          SRAFYWSNKEAWRMTGQYVVVLKENVHRSQTERVIRRLQARAAKHGYLTKIVHVFHELFR	94
+Danio                   --------------------VMRNGTHMNQVERTTRRLSAKAAKRGYLIEILQTYSGAFR	40
+Elephant                ------------------------------------------------------------	0
+Rattus                  ------------------------------------------------------------	0
+Pigtailed               ------------------------------------------------------------	0
+Pongo                   ------------------------------------------------------------	0
+proprotein              TATFHRCAKDPWRLPGTYVVVLKEETHLSQSERTARRLQAQAARRGYLTKILHVFHGLLP	120
+Canis                   ------------------------------------------------------------	0
+                                                                                    
+
+Mus                     GC*-----------AGSPHL--------------PWPS----------------------	41
+Xenopus_tropicalis      GFVVKMSSDLLEMALKLPHVDYIEEDSFVFAQSVPWNLDRIVPAQQMANQFSPPNTGDSV	126
+Xenopus_laevis          GFVVKMSSDMLQMALKLPHVDYIEEDSFIFAQSVPWNLDRIVPAQQMASQFSPPNTGDSV	154
+Danio                   GFLVKMSSDVLHMAVKLPHVEYIEEDSSIFAQSIPWNLQRVLQNKHEAGKYSPPNDGAKV	100
+Elephant                ------------------------------------------------------------	0
+Rattus                  ------------------------------------------------------------	0
+Pigtailed               ------------------------------------------------------------	0
+Pongo                   --------------------DYXEEDSSVFAQSIPWNLERITPPRYRADEYQPPDGGSLV	40
+proprotein              GFLVKMSGDLLELALKLPHVDYIEEDSSVFAQSIPWNLERITPPRYRADEYQPPDGGSLV	180
+Canis                   ------------------------------------------------------------	0
+                                                                                    
+
+Mus                     ------------------------------------------------------------	41
+Xenopus_tropicalis      EVYLLDTSIQSNHREIEGKVFVTDFQNVPEEDGTRFHRQASKCESHGTHMAGVVNGRDAG	186
+Xenopus_laevis          EVYLLDTSIQSNHREIEGKVFVTDFQNVPEEDGTRFHRPASKCESHGTHMAGI-------	207
+Danio                   GVYLLDTSVQLTHREVEDRVMVTDFNRVPEEDGVRVHRQASQCDSHGTHIAGVISGRDSG	160
+Elephant                ------------------------------EDGTRFYRQTSKCDSHGTHTAGVVSGRDSG	30
+Rattus                  ------------------------------------------------------------	0
+Pigtailed               ------------------------------------------------------------	0
+Pongo                   EVYLLDTSIQSDHREIEGRVMVTDFENVPEEDGTRFHRQASKCDSHGTHLAGVVSGRDAG	100
+proprotein              EVYLLDTSIQSDHREIEGRVMVTDFENVPEEDGTRFHRQASKCDSHGTHLAGVVSGRDAG	240
+Canis                   ------------------------------------------------------------	0
+                                                                                    
+
+Mus                     ------------------------------------------------CGRG*STSLPKT	52
+Xenopus_tropicalis      VAKGVNVRSLRVLNCQGKGTVSGSLTGLEFIRKH*LNSLITR*LSSSPLLEGTARILNAA	244
+Xenopus_laevis          ------------------------------------------------------------	207
+Danio                   VARGASVNSVRVLNCQGKGTVSGALAGLEYIQSSLASQPVSPVILLLPFVGGFSRTLNTA	220
+Elephant                VAKGANVRSVRILNCQGKGVTSGALAGLEFIRNTVIVQPYRPMIVLLPFAGGFSRTLNSA	90
+Rattus                  ------------------------------------------------------------	0
+Pigtailed               ------------------------------------------------------------	0
+Pongo                   VAKGASMRSLRVLNCQGKGTVSGTLIGLEFIRKSQLVQPVGPLVVLMPLAGGYSRVLNAA	160
+proprotein              VAKGASMRSLRVLNCQGKGTVSGTLIGLEFIRKSQLVQPVGPLVVLLPLAGGYSRVLNAA	300
+Canis                   ------------------------------------------------------------	0
+                                                                                    
+
+Mus                     SS----------TWPGSLRTS-RC*P--PTWW----------PHCPPAPMRQAGSCSVGR	88
+Xenopus_tropicalis      SRALSYRSYHN---FCSWKL*G*CLFVLPASNLRLLTVGALTN-RTPATLGN--------	290
+Xenopus_laevis          ------------------------------------------------------------	207
+Danio                   CRKIVESGAVLIAAAGNYTMMRVCIH-LPQSQSD--------------------------	253
+Elephant                ARMLTHTGVTLIAAAGNYRDD-ACSY-SPASEPGVITVGAINFNNQPTHLGTM-GSNFGR	147
+Rattus                  ------------------RDD-ACLY-SPASAPEVITVGATNAQDQPVTLGTL-GTNFGR	39
+Pigtailed               ------------------------------------------------------------	0
+Pongo                   CQRLARAGVVLVTAAGNFR-----------------------------------------	179
+proprotein              CQRLARAGVVLVTAAGNFRDD-ACLY-SPASAPEVITVGATNAQDQPVTLGTL-GTNFGR	357
+Canis                   ------------------------------------------------------------	0
+                                                                                    
+
+Mus                     CGRHTRGPLEQLQLQPAVPQKRSC*AAPASP-----GAGGVVVIGL--RP*EASRSARPS	139
+Xenopus_tropicalis      ------------------------------------------------------------	290
+Xenopus_laevis          ------------------------------------------------------------	207
+Danio                   ------------------------------------------------------------	253
+Elephant                CVDLFAPG-D--DIISASSDCITCFTSKSGTSQAAAHVAGIAAVIMNTDPNITASALR--	202
+Rattus                  CVDLFAPG-K--DIIGASSDCSTCYMSQSGTSQAAAHVAGIVAMMLNRDPALTLAELR--	94
+Pigtailed               ------------------------------------------------------------	0
+Pongo                   ------------------------------------------------------------	179
+proprotein              CVDLFAPG-E--DIIGASSDCSTCFVSQSGTSQAAAHVAGIAAMMLSAEPELTLAELR--	412
+Canis                   ------------------------------------------------------------	0
+                                                                                    
+
+Mus                     MHLGVRVSMPSRDAAWFPVPTAASTTP---------------LQPELVWRPMSTATRRTM	184
+Xenopus_tropicalis      ------------------------------------------------------------	290
+Xenopus_laevis          ------------------------------------------------------------	207
+Danio                   ------------------------------------------------------------	253
+Elephant                QRLIQYSTKNAISDVWFPEEQRLITPNRIAXLP---------------------------	235
+Rattus                  QRLILFSTKDVINMAWFPEDQRVLTPNRVATLPPSTQETGGQLLCRTVWSAHSGPTRTAT	154
+Pigtailed               --------------------------------------------------------RMAT	4
+Pongo                   ------------------------------------------------------------	179
+proprotein              QRLIHFSAKDVINEAWFPEDQRVLTPNLVAALPPSTHGAGWQLFCRTVWSAHSGPTRMAT	472
+Canis                   ------------------------------------------------------------	0
+                                                                                    
+
+Mus                     FSQAAASIGKWKTLVSGGSLR*GPDVSLASALAT-----R--------------------	218
+Xenopus_tropicalis      ------------------------------------------------------------	290
+Xenopus_laevis          ------------------------------------------------------------	207
+Danio                   ------------------------------------------------------------	253
+Elephant                ------------------------------------------------------------	235
+Rattus                  -----------------ATARCAPEEELLSCSSFSRSGRRRGDRIEAIGGQQVCKALNAF	197
+Pigtailed               -----------------AVARCAQDEELLSCSSFSRSGKRRGERIEAQGGKRVCRAHNAF	47
+Pongo                   ------------------------------------------------------------	179
+proprotein              -----------------AVARCAPDEELLSCSSFSRSGKRRGERMEAQGGKLVCRAHNAF	515
+Canis                   ------------------------------------------------------------	0
+                                                                                    
+
+Mus                     ------------------------------------------------------------	218
+Xenopus_tropicalis      ------------------------------------------------------------	290
+Xenopus_laevis          ------------------------------------------------------------	207
+Danio                   ------------------------------------------------------------	253
+Elephant                ------------------------------------------------------------	235
+Rattus                  GGEGVYAVARCCLLPRVNCSIHNTPAARAGPQTPVHCHQMDHVLTGCSFHWEVENLRAQQ	257
+Pigtailed               GGEGVYAIARCCLLPQVNCSVHTAPPAGASMGTRVHCHQQGHVLTGCSSHWEVEDLGTHK	107
+Pongo                   ------------------------------------------------------------	179
+proprotein              GGEGVYAIARCCLLPQANCSVHTAPPAEASMGTRVHCHQQGHVLTGCSSHWEVEDLGTHK	575
+Canis                   -----------------------------------------------------------K	1
+                                                                                    
+
+Mus                     -----------------------------------------RPVSMLPAAMPQGWNANQG	237
+Xenopus_tropicalis      ------------------------------------------------------------	290
+Xenopus_laevis          ------------------------------------------------------------	207
+Danio                   ------------------------------------------------------------	253
+Elephant                ------------------------------------------------------------	235
+Rattus                  QP----------------------------------------------------------	259
+Pigtailed               PPVLRPRGQPNQCVGHREASIHASCCHAPGLECKVKEHGIPAPQEQVIVACEDGWTLTGC	167
+Pongo                   ------------------------------------------------------------	179
+proprotein              PPVLRPRGQPNQCVGHREASIHASCCHAPGLECKVKEHGIPAPQEQVTVACEEGWTLTGC	635
+Canis                   PPVLRPRGQPNQCVGHREASIHASCCHAPGLECKVKEHGIPAPQEQVTVACEEGWTLTGC	61
+                                                                                    
+
+Mus                     AW------DLXSFR-AGHCGLR-----------------------------------	252
+Xenopus_tropicalis      ---------------------------------------------------------	290
+Xenopus_laevis          ---------------------------------------------------------	207
+Danio                   ---------------------------------------------------------	253
+Elephant                ---------------------------------------------------------	235
+Rattus                  ---------------------------------------------------------	259
+Pigtailed               SALPGTSHVLGAYAVDNTCVVRSRDVSTTGSTSEEAVAAVAICCRSRHLVQ------	218
+Pongo                   ---------------------------------------------------------	179
+proprotein              SALPGTSHVLGAYAVDNTCVVRSRDVSTTGSTSEGAVTAVAICCRSRHLAQASQELQ	692
+Canis                   SALPGTSHVLGAYAVDNTCVVRSRDVSTTGSTSEEAVTAVAICCRSRHLAQASQELQ	118
+                                                                                 
