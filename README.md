@@ -5,22 +5,22 @@ This is a portfolio of my Bioinformatics work in this course.
 ## Contents
 - Introduction to R
 
--Writing R functions
+- Writing R functions
 
--Bioinformatics data analysis with R
+- Bioinformatics data analysis with R
 
--[Data Exploration and Visualization with ggplot2 in R](https://github.com/AnuChaparala/Bimm143/blob/main/class05/class05.R)
+- [Data Exploration and Visualization with ggplot2 in R](https://github.com/AnuChaparala/Bimm143/blob/main/class05/class05.R)
 
--[Introduction to machine learning for Bioinformatics 1](https://github.com/AnuChaparala/Bimm143/blob/main/class08/class08.Rmd)
+- [Introduction to machine learning for Bioinformatics 1](https://github.com/AnuChaparala/Bimm143/blob/main/class08/class08.Rmd)
 
--[Analysis of Breast Cancer Cells](https://github.com/AnuChaparala/Bimm143/blob/main/class09_mini_project/class09_mini_project.Rmd)
+- [Analysis of Breast Cancer Cells](https://github.com/AnuChaparala/Bimm143/blob/main/class09_mini_project/class09_mini_project.Rmd)
 
--[Halloween Candy Mini-Project](https://github.com/AnuChaparala/Bimm143/blob/main/class09_mini_project/class09_mini_project.Rmd)
+- [Halloween Candy Mini-Project](https://github.com/AnuChaparala/Bimm143/blob/main/class09_mini_project/class09_mini_project.Rmd)
 
--[Structural Bioinformatics pt. 1](https://github.com/AnuChaparala/Bimm143/blob/main/class11/class11.Rmd)
+- [Structural Bioinformatics pt. 1](https://github.com/AnuChaparala/Bimm143/blob/main/class11/class11.Rmd)
 
--[Transcriptomics, RNA-Seq analysis, and the interpretation of gene lists](https://github.com/AnuChaparala/Bimm143/blob/main/class%2015/class15.Rmd)
+- [Transcriptomics, RNA-Seq analysis, and the interpretation of gene lists](https://github.com/AnuChaparala/Bimm143/blob/main/class%2015/class15.Rmd)
 
--[Vaccination rate mini project](https://github.com/AnuChaparala/Bimm143/blob/main/class16/class16.Rmd)
+- [Vaccination rate mini project](https://github.com/AnuChaparala/Bimm143/blob/main/class16/class16.Rmd)
 
--[Genome informatics and high throughput sequencing](https://github.com/AnuChaparala/Bimm143/blob/main/class19/class19.Rmd)
+- [Genome informatics and high throughput sequencing](https://github.com/AnuChaparala/Bimm143/blob/main/class19/class19.Rmd)
